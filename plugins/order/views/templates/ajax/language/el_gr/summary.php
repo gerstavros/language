@@ -16,7 +16,7 @@ $lang['Summary.index.heading_summary'] = 'Περίληψη παραγγελία�
 $lang['Summary.index.summary_note'] = 'Οποιοσδήποτε ισχύων φόρος θα υπολογιστεί αφού εγγραφείτε ή συνδεθείτε.';
 $lang['Summary.index.table_description'] = 'Περιγραφή';
 $lang['Summary.index.table_price'] = 'Τιμή';
-$lang['Summary.index.empty_cart'] = 'Άδειο καλάθι';
+$lang['Summary.index.empty_cart'] = 'Άδειασμα καλαθιού';
 $lang['Summary.index.heading_paymethods'] = 'Μέθοδος πληρωμής';
 $lang['Summary.index.paymethods_note'] = 'Παρακαλούμε επιλέξτε την επιθυμητή μέθοδο πληρωμής.';
 
