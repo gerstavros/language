@@ -11,7 +11,7 @@
 
 $lang['OrderPlugin.name'] = 'Σύστημα παραγγελιών';
 $lang['OrderPlugin.admin_main.name'] = 'Παραγγελίες';
-$lang['OrderPlugin.admin_forms.name'] = 'Έντυπα παραγγελιών';
+$lang['OrderPlugin.admin_forms.name'] = 'Φόρμες παραγγελίας';
 $lang['OrderPlugin.admin_affiliates.name'] = 'Συνεργάτες';
 $lang['OrderPlugin.admin_affiliates.payouts'] = 'Πληρωμές θυγατρικών';
 $lang['OrderPlugin.admin_affiliates.payment_methods'] = 'Μέθοδοι πληρωμής θυγατρικών';
